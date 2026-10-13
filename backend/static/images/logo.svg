@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Mesa Mágica</title>
+  <desc id="desc">Logotipo con utensilios dorados y fondo oscuro.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9e28d"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="100" fill="#111111"/>
+  <circle cx="100" cy="100" r="74" fill="none" stroke="url(#gold)" stroke-width="6"/>
+  <path d="M72 70h12v62c0 15-9 27-24 27M100 70h12v86c0 17-11 31-28 31" fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M100 54v98M88 74h24M72 52h56" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M138 64c16 18 21 37 21 58 0 16-6 31-18 44" fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M125 80c10 9 15 19 15 31 0 11-4 20-12 28" fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+</svg>
